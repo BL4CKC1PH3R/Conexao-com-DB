@@ -1,0 +1,12 @@
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\bin\Debug\Conexão com DB.exe.config
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\bin\Debug\Conexão com DB.exe
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\bin\Debug\Conexão com DB.pdb
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Conexão_com_DB.Conexaodb.resources
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Conexão_com_DB.Properties.Resources.resources
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Conexão_com_DB.sqlShell.resources
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Banco de dados.csproj.GenerateResource.Cache
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Conexão com DB.exe
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Conexão com DB.pdb
+C:\Users\gubat_000\documents\visual studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Banco de dados.csprojResolveAssemblyReference.cache
+C:\Users\gubat_000\Documents\Visual Studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Conexão_com_DB.dbLogin.resources
+C:\Users\gubat_000\Documents\Visual Studio 2013\Projects\Conexão com DB\Conexão com DB\obj\Debug\Conexão_com_DB.registro.resources
